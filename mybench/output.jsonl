@@ -1,0 +1,1 @@
+{"batch_size": 1, "steps": 3, "topk": 12, "num_draft_tokens": 36, "acc_length": 1.052, "step_time": 0.01172, "speed": 89.79, "completion_tokens": 512.0}

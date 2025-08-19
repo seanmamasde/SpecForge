@@ -1,0 +1,2 @@
+{"batch_size": 1, "steps": 2, "topk": 12, "num_draft_tokens": 24, "acc_length": 1.053, "step_time": 0.01064, "speed": 98.92, "completion_tokens": 512.0}
+{"batch_size": 1, "steps": 3, "topk": 12, "num_draft_tokens": 24, "acc_length": 1.052, "step_time": 0.0108, "speed": 97.34, "completion_tokens": 512.0}

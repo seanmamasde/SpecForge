@@ -1,0 +1,9 @@
+{"batch_size": 1, "steps": 3, "topk": 8, "num_draft_tokens": 10, "acc_length": 1.042, "step_time": 0.00984, "speed": 105.927, "completion_tokens": 512.0}
+{"batch_size": 1, "steps": 4, "topk": 8, "num_draft_tokens": 10, "acc_length": 1.042, "step_time": 0.01037, "speed": 100.455, "completion_tokens": 512.0}
+{"batch_size": 1, "steps": 5, "topk": 8, "num_draft_tokens": 10, "acc_length": 1.042, "step_time": 0.01084, "speed": 96.094, "completion_tokens": 512.0}
+{"batch_size": 2, "steps": 3, "topk": 8, "num_draft_tokens": 10, "acc_length": 1.044, "step_time": 0.01112, "speed": 93.896, "completion_tokens": 512.0}
+{"batch_size": 2, "steps": 4, "topk": 8, "num_draft_tokens": 10, "acc_length": 1.044, "step_time": 0.01168, "speed": 89.335, "completion_tokens": 512.0}
+{"batch_size": 2, "steps": 5, "topk": 8, "num_draft_tokens": 10, "acc_length": 1.044, "step_time": 0.01217, "speed": 85.767, "completion_tokens": 512.0}
+{"batch_size": 4, "steps": 3, "topk": 8, "num_draft_tokens": 10, "acc_length": 1.041, "step_time": 0.01341, "speed": 77.611, "completion_tokens": 512.0}
+{"batch_size": 4, "steps": 4, "topk": 8, "num_draft_tokens": 10, "acc_length": 1.041, "step_time": 0.01406, "speed": 74.038, "completion_tokens": 512.0}
+{"batch_size": 4, "steps": 5, "topk": 8, "num_draft_tokens": 10, "acc_length": 1.041, "step_time": 0.01463, "speed": 71.149, "completion_tokens": 512.0}
